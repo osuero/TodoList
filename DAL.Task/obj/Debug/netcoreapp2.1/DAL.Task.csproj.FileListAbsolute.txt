@@ -1,0 +1,9 @@
+C:\Repository\TodoList\DAL.Task\bin\Debug\netcoreapp2.1\DAL.Task.deps.json
+C:\Repository\TodoList\DAL.Task\bin\Debug\netcoreapp2.1\DAL.Task.dll
+C:\Repository\TodoList\DAL.Task\bin\Debug\netcoreapp2.1\DAL.Task.pdb
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.csprojAssemblyReference.cache
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.csproj.CoreCompileInputs.cache
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.AssemblyInfoInputs.cache
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.AssemblyInfo.cs
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.dll
+C:\Repository\TodoList\DAL.Task\obj\Debug\netcoreapp2.1\DAL.Task.pdb

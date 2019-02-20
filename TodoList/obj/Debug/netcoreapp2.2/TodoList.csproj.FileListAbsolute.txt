@@ -1,0 +1,17 @@
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\TodoList.deps.json
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\TodoList.runtimeconfig.json
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\TodoList.runtimeconfig.dev.json
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\TodoList.dll
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\TodoList.pdb
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\DAL.Task.dll
+C:\Repository\TodoList\TodoList\bin\Debug\netcoreapp2.2\DAL.Task.pdb
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.csprojAssemblyReference.cache
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.csproj.CoreCompileInputs.cache
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.RazorAssemblyInfo.cache
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.RazorAssemblyInfo.cs
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.AssemblyInfoInputs.cache
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.AssemblyInfo.cs
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.RazorTargetAssemblyInfo.cache
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.csproj.CopyComplete
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.dll
+C:\Repository\TodoList\TodoList\obj\Debug\netcoreapp2.2\TodoList.pdb
